@@ -24,7 +24,7 @@ defmodule AnsiToHTML.Mixfile do
 
   defp deps do
     [
-      {:phoenix_html, "~> 3.0.4"},
+      {:phoenix_html, "~> 3.2"},
       {:ex_doc, "~> 0.25.3", only: :dev, runtime: false}
     ]
   end
